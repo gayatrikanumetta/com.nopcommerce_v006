@@ -1,0 +1,452 @@
+[INFO ] 13-08-2020 12:31:46.885 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 12:31:48.615 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 12:31:58.267 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 12:33:57.575 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 12:34:00.159 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 12:34:10.229 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 12:34:10.233 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 12:42:24.449 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 12:42:25.682 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 12:42:36.278 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 12:42:36.281 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 12:52:17.958 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 12:52:19.096 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 12:52:31.998 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 12:52:32.003 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 12:57:23.797 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 12:57:25.455 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 12:57:35.192 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 12:57:35.194 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 12:58:31.478 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 12:58:34.856 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 12:58:42.899 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 12:58:42.904 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 01:02:27.491 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 01:02:37.729 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 01:02:38.797 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 01:02:41.902 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 01:02:51.556 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 01:02:51.562 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 01:03:04.987 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 01:03:04.988 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 01:04:12.460 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 01:04:16.081 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 01:04:17.642 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 01:04:18.192 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 01:04:23.494 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 01:04:23.498 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 01:04:33.622 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 01:04:33.622 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 01:37:28.332 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 01:37:29.401 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 01:37:33.853 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 01:37:33.858 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 01:45:19.577 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 01:45:21.613 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 01:45:25.744 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 01:45:25.749 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 01:48:31.918 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 01:48:33.000 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 01:48:37.584 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 01:48:37.587 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 01:51:12.229 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 01:51:14.149 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 01:51:18.053 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 01:51:18.057 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 01:52:36.735 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 01:52:38.062 TC_LoginTest_001 - *********login details**********
+[ERROR] 13-08-2020 01:52:42.253 TC_LoginTest_001 - ************login test failed**********
+[INFO ] 13-08-2020 01:57:43.043 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 01:57:44.086 TC_LoginTest_001 - *********login details**********
+[ERROR] 13-08-2020 01:57:48.311 TC_LoginTest_001 - ************login test failed**********
+[INFO ] 13-08-2020 02:01:24.124 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 02:01:25.790 TC_LoginTest_001 - *********login details**********
+[ERROR] 13-08-2020 02:01:29.936 TC_LoginTest_001 - ************login test failed**********
+[INFO ] 13-08-2020 02:07:08.315 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 02:07:09.394 TC_LoginTest_001 - *********login details**********
+[ERROR] 13-08-2020 02:07:13.561 TC_LoginTest_001 - ************login test failed**********
+[INFO ] 13-08-2020 10:46:03.558 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 10:46:05.005 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 10:46:10.529 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 10:46:10.533 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 10:47:24.758 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 10:47:29.527 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 10:47:43.688 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 10:47:43.693 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 10:53:35.104 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 10:53:39.565 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 10:53:46.077 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 10:53:46.082 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 13-08-2020 11:15:34.169 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 13-08-2020 11:15:50.391 TC_LoginTest_001 - *********login details**********
+[INFO ] 13-08-2020 11:15:59.145 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 13-08-2020 11:15:59.148 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 14-08-2020 01:11:07.660 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 14-08-2020 01:11:09.094 TC_LoginTest_001 - *********login details**********
+[INFO ] 14-08-2020 01:11:19.258 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 14-08-2020 01:11:19.265 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 14-08-2020 01:11:37.694 TC_LoginDDT_002 - ********login started********
+[INFO ] 14-08-2020 01:11:52.423 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 14-08-2020 01:11:56.395 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 14-08-2020 01:11:56.402 TC_LoginDDT_002 - ********login started********
+[INFO ] 14-08-2020 01:12:02.393 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 14-08-2020 01:12:02.394 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 14-08-2020 01:12:02.407 TC_LoginDDT_002 - ********login started********
+[INFO ] 14-08-2020 01:12:08.305 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 14-08-2020 01:12:08.306 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 14-08-2020 01:12:08.312 TC_LoginDDT_002 - ********login started********
+[INFO ] 14-08-2020 01:14:59.766 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 14-08-2020 01:15:00.753 TC_LoginTest_001 - *********login details**********
+[INFO ] 14-08-2020 01:15:11.197 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 14-08-2020 01:15:11.201 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 14-08-2020 01:15:16.749 TC_LoginDDT_002 - ********login started********
+[INFO ] 14-08-2020 01:15:32.710 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 14-08-2020 01:15:36.656 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 14-08-2020 01:15:36.661 TC_LoginDDT_002 - ********login started********
+[INFO ] 14-08-2020 01:15:42.719 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 14-08-2020 01:15:42.719 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 14-08-2020 01:15:42.727 TC_LoginDDT_002 - ********login started********
+[INFO ] 14-08-2020 01:15:48.744 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 14-08-2020 01:15:48.744 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 14-08-2020 01:15:48.753 TC_LoginDDT_002 - ********login started********
+[INFO ] 15-08-2020 10:59:38.847 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 15-08-2020 10:59:40.516 TC_LoginTest_001 - *********login details**********
+[INFO ] 15-08-2020 10:59:49.381 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 15-08-2020 10:59:49.386 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 15-08-2020 10:59:59.973 TC_LoginDDT_002 - ********login started********
+[INFO ] 15-08-2020 11:00:12.355 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 15-08-2020 11:00:16.509 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 15-08-2020 11:00:16.517 TC_LoginDDT_002 - ********login started********
+[INFO ] 15-08-2020 11:00:22.592 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 15-08-2020 11:00:22.593 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 15-08-2020 11:00:22.599 TC_LoginDDT_002 - ********login started********
+[INFO ] 15-08-2020 11:00:28.624 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 15-08-2020 11:00:28.624 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 15-08-2020 11:00:28.631 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 08:53:35.147 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 08:54:55.838 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 08:55:29.957 TC_SearchCustomerByEmail_004 - **********Search not successful**********
+[INFO ] 16-08-2020 10:35:01.934 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 10:35:22.325 TC_SearchCustomerByEmail_004 - **********Search not successful**********
+[INFO ] 16-08-2020 10:37:26.452 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 10:37:42.600 TC_SearchCustomerByEmail_004 - **********Search not successful**********
+[INFO ] 16-08-2020 10:41:59.097 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 10:42:14.310 TC_SearchCustomerByEmail_004 - **********Search not successful**********
+[INFO ] 16-08-2020 10:43:41.210 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 10:43:56.075 TC_SearchCustomerByEmail_004 - **********Search not successful**********
+[INFO ] 16-08-2020 10:46:23.283 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 10:46:37.806 TC_SearchCustomerByEmail_004 - **********Search not successful**********
+[INFO ] 16-08-2020 10:49:29.663 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 10:49:43.150 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 16-08-2020 10:49:43.154 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 16-08-2020 11:12:58.022 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 11:13:15.666 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 16-08-2020 11:13:15.670 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 16-08-2020 11:18:42.609 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 16-08-2020 11:18:44.429 TC_LoginTest_001 - *********login details**********
+[INFO ] 16-08-2020 11:18:55.744 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 16-08-2020 11:18:55.752 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 16-08-2020 11:19:09.258 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:19:25.463 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 16-08-2020 11:19:29.684 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:19:29.695 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:19:36.286 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:19:36.286 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:19:36.295 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:19:42.626 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:19:42.626 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:19:42.631 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:19:48.791 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 11:20:08.323 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 16-08-2020 11:20:08.324 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 16-08-2020 11:28:50.387 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 16-08-2020 11:28:53.465 TC_LoginTest_001 - *********login details**********
+[INFO ] 16-08-2020 11:29:05.655 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 16-08-2020 11:29:05.658 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 16-08-2020 11:29:10.918 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:29:27.962 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 16-08-2020 11:29:33.193 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:29:33.206 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:29:39.893 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:29:39.894 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:29:39.901 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:29:46.068 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:29:46.068 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:29:46.080 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:29:50.972 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 11:30:12.713 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 16-08-2020 11:30:12.713 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 16-08-2020 11:36:39.325 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 16-08-2020 11:36:40.385 TC_LoginTest_001 - *********login details**********
+[INFO ] 16-08-2020 11:36:48.990 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 16-08-2020 11:36:48.994 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 16-08-2020 11:36:54.840 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:37:09.185 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 16-08-2020 11:37:13.149 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:37:13.165 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:37:19.296 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:37:19.297 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:37:19.307 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:37:25.771 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:37:25.772 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:37:25.776 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:37:31.755 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:37:31.756 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:37:31.765 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:37:36.446 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 11:37:51.683 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 16-08-2020 11:37:51.683 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 16-08-2020 11:39:08.292 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 16-08-2020 11:39:09.367 TC_LoginTest_001 - *********login details**********
+[INFO ] 16-08-2020 11:39:16.872 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 16-08-2020 11:39:16.876 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 16-08-2020 11:39:22.818 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:39:37.782 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 16-08-2020 11:39:41.803 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:39:41.823 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:39:47.815 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:39:47.816 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:39:47.825 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:39:53.797 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:39:53.798 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:39:53.809 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:39:59.561 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:39:59.575 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:40:04.239 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 11:40:38.623 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 16-08-2020 11:40:38.623 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 16-08-2020 11:45:14.147 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 16-08-2020 11:45:15.391 TC_LoginTest_001 - *********login details**********
+[INFO ] 16-08-2020 11:45:22.482 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 16-08-2020 11:45:22.565 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 16-08-2020 11:45:28.537 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:45:42.643 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 16-08-2020 11:45:46.704 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:45:46.724 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:45:52.738 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:45:52.738 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:45:52.744 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:45:58.670 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 16-08-2020 11:45:58.670 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:45:58.683 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:46:07.186 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 16-08-2020 11:46:11.080 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 16-08-2020 11:46:11.084 TC_LoginDDT_002 - ********login started********
+[INFO ] 16-08-2020 11:46:15.814 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 16-08-2020 11:46:30.815 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 16-08-2020 11:46:30.815 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 17-08-2020 12:19:26.850 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:19:38.181 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 17-08-2020 12:19:42.473 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 12:19:42.519 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:19:48.530 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 12:19:48.531 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 12:19:48.540 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:19:54.503 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 12:19:54.504 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 12:19:54.515 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:20:03.890 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 17-08-2020 12:20:08.364 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 12:20:08.371 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:31:28.461 TC_LoginDDT_002 - ********login started********
+[WARN ] 17-08-2020 12:31:37.421 TC_LoginDDT_002 - **********login test failed*********
+[INFO ] 17-08-2020 12:31:37.461 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:31:43.736 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 12:31:43.736 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 12:31:43.744 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:31:50.007 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 12:31:50.008 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 12:31:50.020 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:38:03.044 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:38:14.764 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 17-08-2020 12:38:18.744 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 12:38:18.792 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:38:24.762 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 12:38:24.762 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 12:38:24.778 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 12:38:30.768 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 12:38:30.769 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 12:38:30.778 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 08:54:43.915 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 08:54:58.488 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 17-08-2020 08:55:02.887 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 08:55:02.945 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 08:55:09.067 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 08:55:09.068 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 08:55:09.086 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 08:55:15.107 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 08:55:15.108 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 08:55:15.116 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 08:57:14.400 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 08:57:26.193 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 17-08-2020 08:57:30.175 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 08:57:30.219 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 08:57:36.242 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 08:57:36.242 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 08:57:36.249 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 08:57:42.573 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 08:57:42.573 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 08:57:42.581 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 09:00:26.028 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 09:00:39.173 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 17-08-2020 09:00:43.228 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 09:00:43.257 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 09:01:11.456 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 09:01:11.456 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 09:01:11.467 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 09:01:17.851 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 09:01:17.852 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 09:01:17.861 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 09:02:09.787 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 09:02:23.863 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 17-08-2020 09:02:28.102 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 09:02:28.132 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 09:02:34.318 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 09:02:34.319 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 09:02:34.329 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 09:02:40.476 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 09:02:40.476 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 09:02:40.490 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:45:55.755 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:46:12.343 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 17-08-2020 10:46:16.500 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 10:46:16.532 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:46:22.838 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 10:46:22.879 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 10:46:22.893 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:46:29.353 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 10:46:29.354 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 10:46:29.360 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:50:40.765 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:50:54.342 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 17-08-2020 10:50:58.436 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 10:50:58.469 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:51:05.121 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 10:51:05.122 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 10:51:05.128 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:51:11.792 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 10:51:11.793 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 10:51:11.802 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:54:47.665 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:55:00.565 TC_LoginDDT_002 - ******* login test passed**********
+[INFO ] 17-08-2020 10:55:04.913 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 10:55:04.948 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:55:11.201 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 10:55:11.202 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 10:55:11.207 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:55:17.874 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 10:55:17.875 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 10:55:17.880 TC_LoginDDT_002 - ********login started********
+[INFO ] 17-08-2020 10:55:24.431 TC_LoginDDT_002 - *******login test passed***********
+[INFO ] 17-08-2020 10:55:24.431 TC_LoginDDT_002 - *********login test finished***********
+[INFO ] 17-08-2020 11:03:19.572 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 17-08-2020 11:03:24.445 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 17-08-2020 11:04:31.785 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 17-08-2020 11:04:42.892 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 17-08-2020 11:04:49.477 TC_AddCustomerTest_003 - <<<<<<<<<<<adding customer details>>>>>>>>>>>>
+[INFO ] 17-08-2020 11:08:50.855 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 17-08-2020 11:09:01.449 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 17-08-2020 11:09:07.510 TC_AddCustomerTest_003 - <<<<<<<<<<<adding customer details>>>>>>>>>>>>
+[INFO ] 17-08-2020 11:09:20.255 TC_AddCustomerTest_003 - <<<<<<<<<<<Customer added successfully>>>>>>>>
+[INFO ] 17-08-2020 11:09:20.260 TC_AddCustomerTest_003 - <<<<<<<<<<TC_AddCustomerTest_003 completed successfully>>>>>>>>>>
+[INFO ] 17-08-2020 11:10:28.068 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 17-08-2020 11:10:39.067 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 17-08-2020 11:10:48.370 TC_AddCustomerTest_003 - <<<<<<<<<<<adding customer details>>>>>>>>>>>>
+[INFO ] 17-08-2020 11:11:00.954 TC_AddCustomerTest_003 - <<<<<<<<<<<Customer added successfully>>>>>>>>
+[INFO ] 17-08-2020 11:11:00.957 TC_AddCustomerTest_003 - <<<<<<<<<<TC_AddCustomerTest_003 completed successfully>>>>>>>>>>
+[INFO ] 17-08-2020 11:18:27.011 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 17-08-2020 11:18:27.801 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 17-08-2020 11:18:28.366 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 17-08-2020 11:18:29.436 TC_LoginTest_001 - *********login details**********
+[INFO ] 17-08-2020 11:18:47.711 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 17-08-2020 11:18:49.452 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 17-08-2020 11:18:49.464 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 17-08-2020 11:19:01.727 TC_AddCustomerTest_003 - <<<<<<<<<<<adding customer details>>>>>>>>>>>>
+[INFO ] 17-08-2020 11:19:05.422 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 17-08-2020 11:19:05.423 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 17-08-2020 11:19:16.054 TC_AddCustomerTest_003 - <<<<<<<<<<<Customer added successfully>>>>>>>>
+[INFO ] 17-08-2020 11:19:16.054 TC_AddCustomerTest_003 - <<<<<<<<<<TC_AddCustomerTest_003 completed successfully>>>>>>>>>>
+[INFO ] 17-08-2020 11:45:28.702 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 17-08-2020 11:45:28.702 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 17-08-2020 11:45:28.703 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 17-08-2020 11:45:40.027 TC_LoginTest_001 - *********login details**********
+[INFO ] 17-08-2020 11:46:29.260 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 17-08-2020 11:46:29.269 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 17-08-2020 11:46:33.894 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 17-08-2020 11:46:41.655 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 17-08-2020 11:46:41.655 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 17-08-2020 11:46:42.879 TC_AddCustomerTest_003 - <<<<<<<<<<<adding customer details>>>>>>>>>>>>
+[INFO ] 17-08-2020 11:46:55.910 TC_AddCustomerTest_003 - <<<<<<<<<<<Customer added successfully>>>>>>>>
+[INFO ] 17-08-2020 11:46:55.911 TC_AddCustomerTest_003 - <<<<<<<<<<TC_AddCustomerTest_003 completed successfully>>>>>>>>>>
+[INFO ] 18-08-2020 08:10:05.017 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 18-08-2020 08:10:05.624 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 18-08-2020 08:10:06.056 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 18-08-2020 08:10:06.276 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 18-08-2020 08:10:07.534 TC_LoginTest_001 - *********login details**********
+[INFO ] 18-08-2020 08:10:22.913 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 18-08-2020 08:10:22.917 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 18-08-2020 08:10:23.870 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 18-08-2020 08:10:34.981 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 18-08-2020 08:10:34.981 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 18-08-2020 08:10:37.305 TC_AddCustomerTest_003 - <<<<<<<<<<<adding customer details>>>>>>>>>>>>
+[INFO ] 18-08-2020 08:10:50.644 TC_AddCustomerTest_003 - <<<<<<<<<<<Customer added successfully>>>>>>>>
+[INFO ] 18-08-2020 08:10:50.645 TC_AddCustomerTest_003 - <<<<<<<<<<TC_AddCustomerTest_003 completed successfully>>>>>>>>>>
+[INFO ] 18-08-2020 08:22:42.964 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 18-08-2020 08:22:43.233 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 18-08-2020 08:22:43.563 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 18-08-2020 08:22:43.635 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 18-08-2020 08:22:47.333 TC_LoginTest_001 - *********login details**********
+[INFO ] 18-08-2020 08:23:07.720 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 18-08-2020 08:23:10.205 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 18-08-2020 08:23:10.210 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 18-08-2020 08:23:14.953 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 18-08-2020 08:23:14.954 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 18-08-2020 08:23:17.429 TC_AddCustomerTest_003 - <<<<<<<<<<<adding customer details>>>>>>>>>>>>
+[INFO ] 18-08-2020 08:23:29.936 TC_AddCustomerTest_003 - <<<<<<<<<<<Customer added successfully>>>>>>>>
+[INFO ] 18-08-2020 08:23:29.937 TC_AddCustomerTest_003 - <<<<<<<<<<TC_AddCustomerTest_003 completed successfully>>>>>>>>>>
+[INFO ] 18-08-2020 08:27:18.118 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 18-08-2020 08:27:18.368 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 18-08-2020 08:27:19.002 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 18-08-2020 08:27:20.948 TC_LoginTest_001 - *********login details**********
+[INFO ] 18-08-2020 08:27:32.958 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 18-08-2020 08:27:33.434 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 18-08-2020 08:27:33.439 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 18-08-2020 08:27:45.322 TC_AddCustomerTest_003 - <<<<<<<<<<<adding customer details>>>>>>>>>>>>
+[INFO ] 18-08-2020 08:27:45.511 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 18-08-2020 08:27:45.512 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 18-08-2020 08:27:58.072 TC_AddCustomerTest_003 - <<<<<<<<<<<Customer added successfully>>>>>>>>
+[INFO ] 18-08-2020 08:27:58.072 TC_AddCustomerTest_003 - <<<<<<<<<<TC_AddCustomerTest_003 completed successfully>>>>>>>>>>
+[INFO ] 18-08-2020 08:30:53.013 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[ERROR] 18-08-2020 08:31:08.264 TC_SearchCustomerByName_005 - ********* Search customer by name is failed*************
+[INFO ] 18-08-2020 08:34:47.547 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[ERROR] 18-08-2020 08:35:02.816 TC_SearchCustomerByName_005 - ********* Search customer by name is failed*************
+[INFO ] 18-08-2020 08:37:08.277 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 18-08-2020 08:37:21.471 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 18-08-2020 08:37:21.474 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 18-08-2020 08:39:09.661 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 18-08-2020 08:39:09.715 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 18-08-2020 08:39:09.794 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 18-08-2020 08:39:11.112 TC_LoginTest_001 - *********login details**********
+[INFO ] 18-08-2020 08:39:21.305 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 18-08-2020 08:39:21.313 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 18-08-2020 08:39:29.884 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 18-08-2020 08:39:31.687 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 18-08-2020 08:39:31.688 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 18-08-2020 08:39:36.539 TC_AddCustomerTest_003 - <<<<<<<<<<<adding customer details>>>>>>>>>>>>
+[INFO ] 18-08-2020 08:39:49.218 TC_AddCustomerTest_003 - <<<<<<<<<<<Customer added successfully>>>>>>>>
+[INFO ] 18-08-2020 08:39:49.218 TC_AddCustomerTest_003 - <<<<<<<<<<TC_AddCustomerTest_003 completed successfully>>>>>>>>>>
+[INFO ] 18-08-2020 08:42:19.171 TC_SearchCustomerByEmail_004 - ******Search customer by email Test case started******
+[INFO ] 18-08-2020 08:42:19.853 TC_AddCustomerTest_003 - <<<<<<<<test case started>>>>>>>>>>
+[INFO ] 18-08-2020 08:42:20.277 TC_LoginTest_001 - *********Starting TC_LoginTest_001 *********
+[INFO ] 18-08-2020 08:42:20.695 TC_SearchCustomerByName_005 - ********* starting TC_SearchCustomerByName_005 *************
+[INFO ] 18-08-2020 08:42:22.114 TC_LoginTest_001 - *********login details**********
+[INFO ] 18-08-2020 08:42:34.578 TC_LoginTest_001 - ************login test passed**********
+[INFO ] 18-08-2020 08:42:34.584 TC_LoginTest_001 - ************login test finished**********
+[INFO ] 18-08-2020 08:42:42.913 TC_AddCustomerTest_003 - <<<<<<<<<Adding new customer>>>>>>>>>
+[INFO ] 18-08-2020 08:42:52.398 TC_SearchCustomerByName_005 - ********* Search customer by name is passed *************
+[INFO ] 18-08-2020 08:42:52.399 TC_SearchCustomerByName_005 - ********* End of TC_SearchCustomerByName_005 *************
+[INFO ] 18-08-2020 08:42:55.016 TC_AddCustomerTest_003 - <<<<<<<<<<<adding customer details>>>>>>>>>>>>
+[INFO ] 18-08-2020 08:42:59.878 TC_SearchCustomerByEmail_004 - **********Search successful**********
+[INFO ] 18-08-2020 08:42:59.878 TC_SearchCustomerByEmail_004 - ************Search customer by email test case finished**************
+[INFO ] 18-08-2020 08:43:07.726 TC_AddCustomerTest_003 - <<<<<<<<<<<Customer added successfully>>>>>>>>
+[INFO ] 18-08-2020 08:43:07.727 TC_AddCustomerTest_003 - <<<<<<<<<<TC_AddCustomerTest_003 completed successfully>>>>>>>>>>
